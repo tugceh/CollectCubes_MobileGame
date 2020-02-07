@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d5d7df1d0ba74323984b36ad5dd6c8f, type: 3}
+  m_Name: Player1
+  m_EditorClassIdentifier: 
+  name: Player
+  speed: 0.005
+  movementDelay: 0.1
+  color: {r: 0.8018868, g: 0.14751692, b: 0.14751692, a: 0}
+  material: {fileID: 2100000, guid: 7bddb3a24a01a4c9085de9941ea45690, type: 2}
+  spawnPoints:
+  - {x: -0.1, y: 0.66, z: -3.93}
